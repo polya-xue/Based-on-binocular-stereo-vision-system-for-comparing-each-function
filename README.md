@@ -17,12 +17,24 @@ Prospect: BM stereo matching algorithm still has many shortcomings. For example,
 Result:
 main window:
 
+![image](https://github.com/polya-xue/Based-on-binocular-stereo-vision-system-for-comparing-each-function/blob/master/screenshots/1.png)
+
 SIFT algorithm
+
+![image](https://github.com/polya-xue/Based-on-binocular-stereo-vision-system-for-comparing-each-function/blob/master/screenshots/2.png)
 
 SURF algorithm
 
+![image](https://github.com/polya-xue/Based-on-binocular-stereo-vision-system-for-comparing-each-function/blob/master/screenshots/3.png)
+
 SURF+BF
+
+![image](https://github.com/polya-xue/Based-on-binocular-stereo-vision-system-for-comparing-each-function/blob/master/screenshots/5.png)
 
 SURF+FLANN
 
+![image](https://github.com/polya-xue/Based-on-binocular-stereo-vision-system-for-comparing-each-function/blob/master/screenshots/6.png)
+
 BM and get the 3D point coordinates in the camera coordinate system
+
+![image](https://github.com/polya-xue/Based-on-binocular-stereo-vision-system-for-comparing-each-function/blob/master/screenshots/7.png)
